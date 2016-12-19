@@ -1,0 +1,17 @@
+{
+  "name": "@iainadams/schema-resolver",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "resolve": "bin/resolve.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-schema-ref-parser": "^3.1.2"
+  }
+}
